@@ -64,7 +64,7 @@ Report will look like this
 **Test folder**
 - Java folder
     - Project folder
-        - Steps folder – contains JBehave steps for corresponding application page
+        - Steps folder – contains Cucumber steps for corresponding application page
         - Cucumber runner classes – configuration for test suites.
     - common folder
         - Steps folder - contains common steps
