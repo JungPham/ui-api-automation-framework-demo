@@ -1,5 +1,5 @@
-# cognizant-automation-framework
-This is automated testing framework for Cognizant applications
+# ui-api-automation-framework
+This is automated testing framework for applications https://github.com/auronsiow/oppenheimer-project-dev
 
 ## Getting started
 ### Prerequisites
@@ -78,7 +78,6 @@ Report will look like this
 * Cucumber for Java - https://plugins.jetbrains.com/plugin/7212-cucumber-for-java
 * Gherkins - https://plugins.jetbrains.com/plugin/9164-gherkin
 ## 4. Test cases automated
-We will have many cases to test this function, I picked one testcase to automate it.
 
 **TC01: Verify that user should be able to insert a single record of working class hero into database via an API**
 
